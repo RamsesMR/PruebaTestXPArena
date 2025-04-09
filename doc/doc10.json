@@ -1,0 +1,54 @@
+{
+  "alumno": {
+    "nombre": "Alex Castejón Sosa",
+    "nick_juego": "@adela62",
+    "edad": 18,
+    "fecha": "2025-04-09"
+  },
+  "perfil": {
+    "estilo_aprendizaje": "Auditivo – Reflexivo",
+    "caracteristicas": [
+      "Trabajo en equipo",
+      "Buena gestión emocional",
+      "Empatía",
+      "Curiosidad constante"
+    ],
+    "habilidades_destacadas": [
+      "Análisis de datos",
+      "Organización de proyectos",
+      "Creación audiovisual"
+    ]
+  },
+  "competencias_juego": {
+    "estrategia": 2,
+    "reaccion": 2,
+    "cooperacion": 5,
+    "creatividad": 4,
+    "gestion_emocional": 3,
+    "competencia_digital": 5
+  },
+  "propuesta_formativa": {
+    "grado_medio": [
+      "Instalaciones Eléctricas y Automáticas",
+      "Actividades Comerciales"
+    ],
+    "grado_superior": [
+      "Educación Infantil",
+      "Laboratorio Clínico y Biomédico"
+    ],
+    "universidad": [
+      "Bellas Artes",
+      "Psicología"
+    ]
+  },
+  "recomendacion_IA": {
+    "texto": "Eres analítico, perseverante y con una gran capacidad para aprender por tu cuenta. Tienes todo para sobresalir en campos científicos y tecnológicos."
+  },
+  "orientacion_familias": {
+    "sugerencias": [
+      "Fomentar el trabajo en equipo",
+      "Estimular la creatividad mediante retos visuales",
+      "Brindar acceso a herramientas digitales educativas"
+    ]
+  }
+}

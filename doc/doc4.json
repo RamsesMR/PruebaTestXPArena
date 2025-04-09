@@ -1,0 +1,54 @@
+{
+  "alumno": {
+    "nombre": "Julián de Hernandez",
+    "nick_juego": "@pratesmeralda",
+    "edad": 16,
+    "fecha": "2025-04-09"
+  },
+  "perfil": {
+    "estilo_aprendizaje": "Verbal – Comunicativo",
+    "caracteristicas": [
+      "Buena gestión emocional",
+      "Curiosidad constante",
+      "Empatía",
+      "Alta creatividad visual"
+    ],
+    "habilidades_destacadas": [
+      "Diseño gráfico",
+      "Hablar en público",
+      "Resolución de problemas"
+    ]
+  },
+  "competencias_juego": {
+    "estrategia": 3,
+    "reaccion": 5,
+    "cooperacion": 3,
+    "creatividad": 3,
+    "gestion_emocional": 2,
+    "competencia_digital": 3
+  },
+  "propuesta_formativa": {
+    "grado_medio": [
+      "Instalaciones Eléctricas y Automáticas",
+      "Sistemas Microinformáticos y Redes"
+    ],
+    "grado_superior": [
+      "Animaciones 3D, Juegos y Entornos Interactivos",
+      "Desarrollo de Aplicaciones Multiplataforma"
+    ],
+    "universidad": [
+      "Magisterio",
+      "Bellas Artes"
+    ]
+  },
+  "recomendacion_IA": {
+    "texto": "Destacas por tu facilidad para comunicarte y tu empatía. Tienes todo lo necesario para prosperar en entornos sociales, educativos o de atención personal."
+  },
+  "orientacion_familias": {
+    "sugerencias": [
+      "Fomentar el trabajo en equipo",
+      "Apoyar actividades extracurriculares relacionadas con la tecnología",
+      "Fomentar hábitos de estudio estructurados"
+    ]
+  }
+}

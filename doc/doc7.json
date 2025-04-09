@@ -1,0 +1,54 @@
+{
+  "alumno": {
+    "nombre": "Elpidio Perea Alfaro",
+    "nick_juego": "@atilio98",
+    "edad": 17,
+    "fecha": "2025-04-09"
+  },
+  "perfil": {
+    "estilo_aprendizaje": "Visual – Experiencial",
+    "caracteristicas": [
+      "Motivación por aprender",
+      "Curiosidad constante",
+      "Orientación tecnológica",
+      "Trabajo en equipo"
+    ],
+    "habilidades_destacadas": [
+      "Creación audiovisual",
+      "Análisis de datos",
+      "Hablar en público"
+    ]
+  },
+  "competencias_juego": {
+    "estrategia": 2,
+    "reaccion": 2,
+    "cooperacion": 4,
+    "creatividad": 2,
+    "gestion_emocional": 2,
+    "competencia_digital": 3
+  },
+  "propuesta_formativa": {
+    "grado_medio": [
+      "Vídeo Disc-Jockey y Sonido",
+      "Actividades Comerciales"
+    ],
+    "grado_superior": [
+      "Realización de Proyectos Audiovisuales y Espectáculos",
+      "Laboratorio Clínico y Biomédico"
+    ],
+    "universidad": [
+      "Psicología",
+      "Grado en Comunicación Audiovisual"
+    ]
+  },
+  "recomendacion_IA": {
+    "texto": "Tienes una gran capacidad para entender y conectar ideas. Tu perfil se adapta a entornos donde el pensamiento lógico y la creatividad se combinan."
+  },
+  "orientacion_familias": {
+    "sugerencias": [
+      "Apoyar actividades extracurriculares relacionadas con la tecnología",
+      "Brindar acceso a herramientas digitales educativas",
+      "Ofrecer espacios para la expresión emocional"
+    ]
+  }
+}

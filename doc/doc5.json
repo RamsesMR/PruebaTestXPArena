@@ -1,0 +1,54 @@
+{
+  "alumno": {
+    "nombre": "Juan José Redondo Nicolás",
+    "nick_juego": "@graciela69",
+    "edad": 16,
+    "fecha": "2025-04-09"
+  },
+  "perfil": {
+    "estilo_aprendizaje": "Lógico – Analítico",
+    "caracteristicas": [
+      "Interés por resolver problemas",
+      "Empatía",
+      "Facilidad para la expresión verbal",
+      "Pensamiento analítico"
+    ],
+    "habilidades_destacadas": [
+      "Programación básica",
+      "Producción musical",
+      "Ilustración digital"
+    ]
+  },
+  "competencias_juego": {
+    "estrategia": 3,
+    "reaccion": 2,
+    "cooperacion": 3,
+    "creatividad": 4,
+    "gestion_emocional": 3,
+    "competencia_digital": 2
+  },
+  "propuesta_formativa": {
+    "grado_medio": [
+      "Sistemas Microinformáticos y Redes",
+      "Instalaciones Eléctricas y Automáticas"
+    ],
+    "grado_superior": [
+      "Educación Infantil",
+      "Realización de Proyectos Audiovisuales y Espectáculos"
+    ],
+    "universidad": [
+      "Magisterio",
+      "Psicología"
+    ]
+  },
+  "recomendacion_IA": {
+    "texto": "Destacas por tu facilidad para comunicarte y tu empatía. Tienes todo lo necesario para prosperar en entornos sociales, educativos o de atención personal."
+  },
+  "orientacion_familias": {
+    "sugerencias": [
+      "Apoyar actividades extracurriculares relacionadas con la tecnología",
+      "Ofrecer espacios para la expresión emocional",
+      "Brindar acceso a herramientas digitales educativas"
+    ]
+  }
+}

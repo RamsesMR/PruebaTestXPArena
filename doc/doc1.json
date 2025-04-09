@@ -1,0 +1,56 @@
+{
+    "alumno": {
+      "nombre": "Sara Muñoz",
+      "nick_juego": "@SaraM13",
+      "edad": 16,
+      "fecha": "2025-04-09"
+    },
+    "perfil": {
+      "estilo_aprendizaje": "Visual – Experiencial",
+      "caracteristicas": [
+        "Alta creatividad visual",
+        "Buena gestión emocional",
+        "Orientación artística y tecnológica",
+        "Colaborativa y comunicativa"
+      ],
+      "habilidades_destacadas": [
+        "Diseño gráfico",
+        "Animación digital",
+        "Expresión visual"
+      ]
+    },
+    "competencias_juego": {
+      "estrategia": 3,
+      "reaccion": 4,
+      "cooperacion": 4,
+      "creatividad": 5,
+      "gestion_emocional": 4,
+      "competencia_digital": 4
+    },
+    "propuesta_formativa": {
+      "grado_medio": [
+        "Vídeo Disc-Jockey y Sonido",
+        "Asistencia al Producto Gráfico Interactivo"
+      ],
+      "grado_superior": [
+        "Animaciones 3D, Juegos y Entornos Interactivos",
+        "Iluminación, Captación y Tratamiento de Imagen"
+      ],
+      "universidad": [
+        "Grado en Comunicación Audiovisual",
+        "Diseño Multimedia",
+        "Bellas Artes"
+      ]
+    },
+    "recomendacion_IA": {
+      "texto": "Tienes un enorme potencial para destacar en áreas donde la creatividad se une con la tecnología. Tu sensibilidad artística, tu manera de expresarte visualmente y tu facilidad para trabajar en equipo te posicionan como una excelente candidata para entornos de producción audiovisual, diseño interactivo o contenidos digitales. No dejes de explorar, aprender y desarrollar tu talento: estás muy cerca de transformar tu vocación en tu profesión."
+    },
+    "orientacion_familias": {
+      "sugerencias": [
+        "Fomentar entornos de exploración creativa",
+        "Acceso a herramientas de diseño digital",
+        "Experiencias extracurriculares en expresión artística"
+      ]
+    }
+  }
+  

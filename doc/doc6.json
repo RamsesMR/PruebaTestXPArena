@@ -1,0 +1,54 @@
+{
+  "alumno": {
+    "nombre": "Ernesto Francisco Diez",
+    "nick_juego": "@tgiralt",
+    "edad": 16,
+    "fecha": "2025-04-09"
+  },
+  "perfil": {
+    "estilo_aprendizaje": "Lógico – Analítico",
+    "caracteristicas": [
+      "Interés por resolver problemas",
+      "Trabajo en equipo",
+      "Orientación tecnológica",
+      "Buena gestión emocional"
+    ],
+    "habilidades_destacadas": [
+      "Producción musical",
+      "Resolución de problemas",
+      "Análisis de datos"
+    ]
+  },
+  "competencias_juego": {
+    "estrategia": 5,
+    "reaccion": 4,
+    "cooperacion": 5,
+    "creatividad": 3,
+    "gestion_emocional": 5,
+    "competencia_digital": 2
+  },
+  "propuesta_formativa": {
+    "grado_medio": [
+      "Instalaciones Eléctricas y Automáticas",
+      "Vídeo Disc-Jockey y Sonido"
+    ],
+    "grado_superior": [
+      "Laboratorio Clínico y Biomédico",
+      "Realización de Proyectos Audiovisuales y Espectáculos"
+    ],
+    "universidad": [
+      "Marketing Digital",
+      "Bellas Artes"
+    ]
+  },
+  "recomendacion_IA": {
+    "texto": "Tu talento visual y sensibilidad artística abren muchas puertas en áreas relacionadas con el diseño, la producción audiovisual y la creatividad digital."
+  },
+  "orientacion_familias": {
+    "sugerencias": [
+      "Brindar acceso a herramientas digitales educativas",
+      "Fomentar hábitos de estudio estructurados",
+      "Fomentar el trabajo en equipo"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "alumno": {
+    "nombre": "Cornelio Armengol Expósito",
+    "nick_juego": "@moranreina",
+    "edad": 18,
+    "fecha": "2025-04-09"
+  },
+  "perfil": {
+    "estilo_aprendizaje": "Lógico – Analítico",
+    "caracteristicas": [
+      "Pensamiento analítico",
+      "Trabajo en equipo",
+      "Interés por resolver problemas",
+      "Buena gestión emocional"
+    ],
+    "habilidades_destacadas": [
+      "Programación básica",
+      "Diseño gráfico",
+      "Creación audiovisual"
+    ]
+  },
+  "competencias_juego": {
+    "estrategia": 4,
+    "reaccion": 3,
+    "cooperacion": 4,
+    "creatividad": 2,
+    "gestion_emocional": 3,
+    "competencia_digital": 3
+  },
+  "propuesta_formativa": {
+    "grado_medio": [
+      "Sistemas Microinformáticos y Redes",
+      "Vídeo Disc-Jockey y Sonido"
+    ],
+    "grado_superior": [
+      "Desarrollo de Aplicaciones Multiplataforma",
+      "Educación Infantil"
+    ],
+    "universidad": [
+      "Grado en Comunicación Audiovisual",
+      "Magisterio"
+    ]
+  },
+  "recomendacion_IA": {
+    "texto": "Eres analítico, perseverante y con una gran capacidad para aprender por tu cuenta. Tienes todo para sobresalir en campos científicos y tecnológicos."
+  },
+  "orientacion_familias": {
+    "sugerencias": [
+      "Estimular la creatividad mediante retos visuales",
+      "Ofrecer espacios para la expresión emocional",
+      "Apoyar actividades extracurriculares relacionadas con la tecnología"
+    ]
+  }
+}
